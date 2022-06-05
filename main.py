@@ -124,7 +124,7 @@ def main():
     dp.add_handler(MessageHandler(Filters.text, send_dp))
 
     updater.start_polling()
-    updater.idle()
+    updater.idle(5570491302:AAFNZ71jD-EmiCPP_wU1QeTvDSBrDzY-yrE)
 
 
 if __name__ == '__main__':
